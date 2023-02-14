@@ -1,0 +1,32 @@
+.input-boxes {
+  margin: 1em 0;
+}
+.input-boxes input {
+  height: 2.5em;
+  width: 10em;
+  text-align: center;
+}
+.input-boxes .operator {
+  width: 2.5em;
+  margin: 0 1em;
+}
+.operation-btn button {
+  border: none;
+  margin: 0.8em;
+  width: 4em;
+  height: 2.5em;
+}
+.result-btn {
+  margin-top: 1em;
+  background: #4bc94b;
+  height: 3em;
+  width: 14em;
+  color: white;
+  border-radius: 0.8rem;
+  border-color: #bbbbbb;
+}
+.result {
+  margin: 2em;
+  height: 5em;
+  text-align: center;
+}
